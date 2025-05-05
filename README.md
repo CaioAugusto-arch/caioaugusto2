@@ -1,10 +1,10 @@
 #<h1 align="center">Olá mundo! Eu sou Caio Augusto 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pierre-cavalcanti/" target="_blank">
+  <a href="https://www.linkedin.com/in/caio-augusto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:pierresimoncc@gmail.com">
+  <a href="mailto:caioaugustolrp@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
